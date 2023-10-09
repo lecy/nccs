@@ -15,18 +15,29 @@
       state: AZ
       url: https://search.asu.edu/profile/3190859
   social:
+    - name: scholar
+      url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
+    - name: website
+      url: https://www.lecy.info/
     - name: linkedin
-      url: https://www.linkedin.com/in/jesse-lecy-bab1013?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGmGcRnF4QFG49WNYVun86w%3D%3D
+      url: https://www.linkedin.com/in/jesse-lecy-bab1013/
+  projects: 
+    - name: nptrends
 - id: hmartin
   first: Hannah
   last: Martin
   title: Policy Analyst
-  bio: Policy Analyst with the Center for Nonprofits and Philanthropy; expertise in sector infrastructure, regulation, program related investments, and performance systems. 
+  bio: Policy Analyst with the Center on Nonprofits and Philanthropy; expertise in social sector infrastructure, charitable giving, and mission-related investing. 
   email: nccs@urban.org
   team: leadership
   image: people/hannah-martin.jpg
   affiliation: 
     - name: Urban Institute / CNP
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/hqmartin/
+  projects: 
+    - name: nptrends
 - id: thiya
   first: Thiya
   last: Poongundranar
@@ -50,10 +61,14 @@
     - name: Urban Institute
       url: https://www.urban.org/author/elizabeth-t-boris
   social:
+    - name: scholar
+      url: https://scholar.google.com/citations?user=WVX-T1UAAAAJ&hl=en&oi=sra 
     - name: linkedin
       url: https://www.linkedin.com/in/elizabeth-t-boris-a934ba7/
     - name: twitter
       url: https://twitter.com/eborisurban
+  projects: 
+    - name: nptrends
 - id: ttraylor
   first: Tené
   last: Traylor
@@ -102,15 +117,6 @@
   affiliation: 
     - name: Urban Institute
       city: Providence
-      state: RI
-      url: www.burgundy.edu
-  social:
-    - name: linkedin
-      url: #
-    - name: twitter
-      url: #
-    - name: mastodon
-      url: #
 - id: mpost
   first: Margaret
   last: Post
@@ -134,36 +140,16 @@
   social:
     - name: linkedin
       url: https://www.linkedin.com/in/olivia-beck-87105a178/
-- id: jd
-  first: John
-  last: Doe
-  title: International Man of Mystery
-  bio: Consectetur sint nemo nihil reprehenderit eius sed eligendi sint alias quod.
-  team: 
+- id: clott
+  first: Cindy
+  last: Lott
+  title: Clinical Professor of Philanthropic Studies
+  bio: Clinical Professor of Philanthropic Studies, Director of the Professional Doctorate in Philanthropic Leadership (PhilD) and Stead Policy Fellow at Indiana University's Lilly Family School of Philanthropy
+  team: collaborator
   affiliation: 
-    - name: Classified
-      city: Classified
-      state: Classified
-      url: Classified
-  image: people/person-placeholder.png
+    - name: Indiana University
+      url: https://philanthropy.iupui.edu/people-directory/lott-m-cindy.html
+  image: people/clott.jpg
   social:
     - name: linkedin
-      url: #
-    - name: twitter
-      url: #
-- id: jn
-  first: John
-  last: None
-  title: This person is hidden from the about page, but available for citations.
-  bio: Consectetur sint nemo nihil reprehenderit eius sed eligendi sint alias quod.
-  affiliation: 
-    - name: Classified
-      city: Classified
-      state: Classified
-      url: Classified
-  image: people/person-placeholder.png
-  social:
-    - name: linkedin
-      url: #
-    - name: twitter
-      url: #
+      url: https://www.linkedin.com/in/cindy-m-lott-aa385b42/
