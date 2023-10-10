@@ -33,7 +33,7 @@ pubs:
     link-text: pdf
   - title: Nonprofit Trends and Impacts 2022
     href: https://www.urban.org/research/publication/nonprofit-trends-and-impacts-2021
-    icon: pdf
+    link-text: pdf
 ---
 
 
