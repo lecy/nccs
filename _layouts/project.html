@@ -90,7 +90,7 @@ layout: default
     header = "Project Contributors"
   %}
 
-  <div class="grid-cols-4 gap">
+  <div class="grid-cols-3 gap">
     {% assign executives = site.data.people | where: "project", "nptrends" %}
     {% for person in executives %}
       {% if person.image %}
@@ -115,21 +115,15 @@ layout: default
 <br>
 
 <div class="content bg-blue-800 color-white flex items-center justify-center" style="height: 5em;">
-<div class="content-cta__text flow flow-1">
+<div class="flow flow-1">
 
 <br>
 <br>
 
 <h2 style='color: white'>Related Publications</h2>
 
-<p>
-<table class=" lightable-material-dark" style='font-family: "Source Sans Pro", helvetica, sans-serif; color: white, margin-left: auto; margin-right: auto; font-size: 12px'>
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;">  </th>
-  </tr>
- </thead>
+<br>
+<table style='font-family: "Source Sans Pro", helvetica, sans-serif; color: white, margin-left: auto; margin-right: auto; font-size: 12px'>
 <tbody>
   <tr>
    <td style="text-align:left;"> <a class="btn -light " href="https://bolderadvocacy.org/resource/comparison-of-501c3s-501c4s-and-political-527-organizations/"> LINK </a> </td>
@@ -149,7 +143,7 @@ layout: default
   </tr>
 </tbody>
 </table>
-</p>
+
 <br>
 <br>
   
